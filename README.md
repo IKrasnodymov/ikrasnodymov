@@ -47,7 +47,10 @@ CLI tool that auto-generates repository wiki documentation on every git commit. 
 
 `Go` `CLI` `Git Hooks`
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[poe2-price-checker](https://github.com/IKrasnodymov/poe2-price-checker)**
 
@@ -56,6 +59,15 @@ Steam Deck plugin for checking Path of Exile 2 item prices in-game. Smart cachin
 <img src="https://raw.githubusercontent.com/IKrasnodymov/poe2-price-checker/master/assets/icon.png" width="48">
 
 `TypeScript` `React` `Decky Loader`
+
+</td>
+<td width="50%" valign="top">
+
+**[Pixel Colony](http://165.232.124.244/)**
+
+Idle city-building game with pixel art editor, social trading, and collaborative monuments.
+
+`TypeScript` `Phaser 3` `Node.js`
 
 </td>
 </tr>
@@ -114,7 +126,6 @@ These are private repositories — available to discuss in detail upon request.
 | **Steam Deck Assistant** | AI gaming assistant with voice input, web search, and persistent memory. Runs as a systemd service | Python, Claude API, Whisper |
 | **Card Battler** | Strategic two-player card game with deck building, city construction, and puzzle mode | Lua, LOVE2D |
 | **TTRPG Meetup Bot** | Telegram bot for organizing tabletop RPG sessions — scheduling, signups, notifications | TypeScript, Telegram Bot API |
-| **Pixel Colony** | Idle city-building game with pixel art editor and social trading | TypeScript, Phaser 3 |
 | **Deck Builder** | Roguelike deck-builder with battles, relics, and status effects | GDScript, Godot |
 | **Pixel Runner** | Pixel art runner game | GDScript, Godot |
 | **BacBuddy** | Blood alcohol content tracker with real-time BAC calculation and habit analysis | TypeScript, React, Supabase |
