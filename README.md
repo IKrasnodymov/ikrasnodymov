@@ -94,7 +94,7 @@ Restaurant website with menus, photo galleries, and responsive design.
 <tr>
 <td width="50%" valign="top">
 
-**[spellbook-web](https://github.com/IKrasnodymov/spellbook-web)** / **[spellbookpuzzle-telegram](https://github.com/IKrasnodymov/spellbookpuzzle-telegram)**
+**[spellbook-web](https://ikrasnodymov.github.io/spellbook-web/)** / **[spellbookpuzzle-telegram](https://github.com/IKrasnodymov/spellbookpuzzle-telegram)**
 
 Spell-casting puzzle game published on Yandex Games. Web and Telegram versions.
 
@@ -103,7 +103,7 @@ Spell-casting puzzle game published on Yandex Games. Web and Telegram versions.
 </td>
 <td width="50%" valign="top">
 
-**[dicer-web](https://github.com/IKrasnodymov/dicer-web)**
+**[dicer-web](https://ikrasnodymov.github.io/dicer-web/)**
 
 Dice rolling app for tabletop games.
 
